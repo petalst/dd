@@ -1,0 +1,15 @@
+{
+  "name": "petalst/dd",
+  "description": "A more informative print_r for php",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Petter Alstad",
+      "email": "petter.alstad@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/var-dumper": "3.1.6 "
+  }
+}
